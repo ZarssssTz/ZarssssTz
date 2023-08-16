@@ -7,9 +7,7 @@
 
 <img width="100%" src="./git.avif" />
 
-<a href="https://github.com/ZarssssTz/" style="margin-bottom:20px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarssssTz&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" height="150px"/>
-</a>
+
 
 <hr>
 
