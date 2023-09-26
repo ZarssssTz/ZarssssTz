@@ -11,6 +11,10 @@
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZarssssTz&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZarssssTz&show_icons=true&locale=en&layout=compact" alt="ZarssssTz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZarssssTz&show_icons=true&locale=en" alt="ZarssssTz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZarssssTz&" alt="ZarssssTz" /></p>
 
 ![ThanksYou](https://img.shields.io/badge/Thankyou_for_visiting_my_github😊-dodgerred.svg?style=for-the-badge)
